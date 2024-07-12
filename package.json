@@ -9,10 +9,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/node": "^20.14.9",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
+    "@types/node": "^20.14.10",
     "@types/readline-sync": "^1.4.8"
   }
 }
